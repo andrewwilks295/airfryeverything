@@ -1,1 +1,22 @@
+body, header,nav, main, footer, h1, div, img, ul, figure, figcaption, section, article, aside, audio, video {
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
 
+.logo {
+    width: 20%;
+}
+
+header h1 {
+    font-family: roboto condensed;
+    
+}
+
+body {
+    background-color: #eadac8;
+}
+
+.airfryer {
+    width: 50%;
+}
